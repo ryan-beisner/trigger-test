@@ -1,2 +1,2 @@
 # trigger-test
-Just testing.
+Just testing triggers.
